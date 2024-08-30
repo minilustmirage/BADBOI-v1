@@ -22,7 +22,7 @@ global.botname = '🕷🕸BENJI ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄 BENJI 🕷🕸v1\n\nContact: +2348140825959'
+global.author = '🦄 BENJI 🕷🕸v1\n\nContact: +234814082595'
 
 //console view/theme
 global.themeemoji = '👿'
