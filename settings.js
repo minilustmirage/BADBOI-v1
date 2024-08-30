@@ -26,13 +26,13 @@ global.author = '🦄 BENJI 🕷🕸v1\n\nContact: +2348140825959'
 
 //console view/theme
 global.themeemoji = '👿'
-global.wm = "badboi Bot Inc."
+global.wm = "BENJI Bot Inc."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
 
 //custom prefix
-global.prefa = ['!','.','#','&']
+global.prefa = ['#','Σ']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
